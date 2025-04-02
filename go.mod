@@ -1,4 +1,4 @@
-module github.com/evmos/evmos/v16
+module github.com/hello-xone/xone_evmos
 
 go 1.20
 
